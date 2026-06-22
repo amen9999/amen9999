@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hey there! It's Amen 👋  
-📬 **Let's connect!**  <br>I'm always open to collaborating on projects, exchanging ideas, or just geeking out over new tools and techniques that make working with data easier, faster, and more insightful.<br><br>  
+📬 **Let's connect!**  <br>I'm always open to collaborating on projects, exchanging ideas, or just geeking out over new tools and techniques that make working  easier, faster, and more insightful.<br><br>  
 
 
 ## 🌐 Socials:
