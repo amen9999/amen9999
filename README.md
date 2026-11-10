@@ -24,9 +24,7 @@
 **💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **🗄️ Databases**
 
@@ -42,8 +40,7 @@
 |---|---|---|
 | ☁️ **AWS Infrastructure IaC** | EC2 · S3 · RDS deployment with Terraform + CloudWatch monitoring | AWS · Terraform · PostgreSQL |
 | 🔄 **DevSecOps CI/CD** | Full pipeline with SonarQube · Nexus · Trivy · 7+ Docker services | Jenkins · Docker · Prometheus |
-| 📊 **Centralized Observability Platform** | Flask app metrics & log pipeline using Promtail, Loki, Prometheus, and Grafana in Docker Compose |
----
+| 📊 **Centralized Observability Platform** | Flask app metrics & log pipeline using Promtail, Loki, Prometheus, and Grafana in Docker Compose | Flask · Prometheus · Loki · Grafana |---
 
 ## 🌍 Languages
 
