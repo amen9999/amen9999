@@ -20,7 +20,6 @@
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 **💻 Languages**
 
@@ -43,8 +42,7 @@
 |---|---|---|
 | ☁️ **AWS Infrastructure IaC** | EC2 · S3 · RDS deployment with Terraform + CloudWatch monitoring | AWS · Terraform · PostgreSQL |
 | 🔄 **DevSecOps CI/CD** | Full pipeline with SonarQube · Nexus · Trivy · 7+ Docker services | Jenkins · Docker · Prometheus |
-| 🔗 **Microservices Architecture** | Spring Boot services + Eureka discovery + API Gateway + Docker Compose | Spring Boot · Eureka · Docker |
-
+| 📊 **Centralized Observability Platform** | Flask app metrics & log pipeline using Promtail, Loki, Prometheus, and Grafana in Docker Compose |
 ---
 
 ## 🌍 Languages
