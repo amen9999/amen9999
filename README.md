@@ -42,7 +42,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | ☁️ **AWS Infrastructure IaC** | EC2 · S3 · RDS deployment with Terraform + CloudWatch monitoring | AWS · Terraform · PostgreSQL |
-| 🔁 **ETL Pipeline** | Automated ETL orchestrated with Apache Airflow on AWS + Grafana dashboards | Python · Airflow · Grafana |
+| 🔁 **ETL Pipeline** | Automated ETL orchestrated with Apache Airflow on AWS + Grafana dashboards | Python  · Grafana |
 | 🔄 **DevSecOps CI/CD** | Full pipeline with SonarQube · Nexus · Trivy · 7+ Docker services | Jenkins · Docker · Prometheus |
 | 🔗 **Microservices Architecture** | Spring Boot services + Eureka discovery + API Gateway + Docker Compose | Spring Boot · Eureka · Docker |
 
